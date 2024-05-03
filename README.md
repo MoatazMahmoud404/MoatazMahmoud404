@@ -16,8 +16,8 @@ Fetch Decode Execute
 
 <div id="header" align="center">
   <a href="https://github.com/MoatazMahmoud404">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoatazMahmoud404&rank_icon=github&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoatazMahmoud404&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoatazMahmoud404&rank_icon=github&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoatazMahmoud404&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark" /> -->
   <img align="center" src="https://streak-stats.demolab.com?user=MoatazMahmoud404&theme=dark&hide_border=true" />
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoatazMahmoud404&theme=dark&langs_count=8&hide_border=true" /> -->
 </div>
