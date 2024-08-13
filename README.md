@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aref+Ruqaa&size=100&duration=3000&pause=1000&color=C80000&center=true&vCenter=true&width=600&height=100&lines=%D9%85%D8%B9%D8%AA%D8%B2)](https://git.io/typing-svg)
 
 ![Github readme banner](Profile.gif)
 <!-- ![Github readme banner](https://github-production-user-asset-6210df.s3.amazonaws.com/83909388/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240503T114207Z&X-Amz-Expires=300&X-Amz-Signature=e7ef02cdd8a2096198eecff69bddad4a40d7a98dd8cfdfefc5becfafcae8bfa9&X-Amz-SignedHeaders=host&actor_id=112717949&key_id=0&repo_id=780136172) -->
